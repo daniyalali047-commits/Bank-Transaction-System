@@ -1,0 +1,26 @@
+{
+  "name": "bank-transaction-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniyalali047-commits/Bank-Transaction-System.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/daniyalali047-commits/Bank-Transaction-System/issues"
+  },
+  "homepage": "https://github.com/daniyalali047-commits/Bank-Transaction-System#readme",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongoose": "^9.11.4",
+    "nodemon": "^3.1.14"
+  }
+}
